@@ -22,7 +22,7 @@ Users should be able to:
 ![](./screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-links-profile-reactscss-7Av-rwyNaI)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/3column-preview-card-component-pvxpjwa0bK)
 - Live Site URL: [Add live site URL here](https://andrew-neely-82.github.io/three-col-preview-card/)
 
 ## My process
