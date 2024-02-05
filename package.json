@@ -2,7 +2,7 @@
   "name": "three-col-preview-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andrew-neely-82.github.io/three-col-preview-card",
+  "homepage": "https://andrew-neely-82.github.io/three-col-preview-card/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

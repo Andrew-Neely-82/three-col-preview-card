@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-links-profile-reactscss-7Av-rwyNaI)
-- Live Site URL: [Add live site URL here](https://andrew-neely-82.github.io/blog-preview-card/)
+- Live Site URL: [Add live site URL here](https://andrew-neely-82.github.io/three-col-preview-card/)
 
 ## My process
 ### Built with
